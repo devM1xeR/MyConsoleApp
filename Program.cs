@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Hello, World!");
-console.Readline();
+Console.ReadLine();
